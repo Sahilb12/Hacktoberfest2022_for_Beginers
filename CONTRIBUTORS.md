@@ -20,6 +20,7 @@
 | KryPtoN | <a href="https://github.com/Kry9toN">Kry9toN</a> | <a href="mailto:kry9ton@kryptonproject.my.id">E-Mail</a> |
 | Udyansingh | <a href="https://github.com/Udyansingh">Udyan Singh</a> | <a href="udyansingh07@gmail.com">E-Mail</a> |
 | Hardik Pratap Singh | <a href="https://github.com/hardik-pratap-singh">Hardik Pratap Singh</a> | <a href="mailto:hardikjanuary2021@gmail.com">E-Mail</a> |
+| Sahil Barsaiyan | <a href="https://github.com/Sahilb12"Sahil Barsaiyan</a> | <a href="sahilbarsaiyan15@gmail.com">E-Mail</a> |
 | Suraj Bhandarkar S | <a href="https://github.com/Suraj-Bhandarkar-S">Adarsh Addee</a> | <a href="mailto:suraj.bhandarkar13@gmail.com">E-Mail</a> |
 | Ashutosh Shukla|<a href = "https://github.com/AshutoshBuilds">Ashutosh Shukla</a>|<a href ="ashutoshshukla734.as@gmail.com">E-mail</a> |
 | Amit Shinde | <a href="https://github.com/amitShindeGit">Amit Shinde</a> | <a href="mailto:99amitshinde@gmail.com">E-Mail</a> |
